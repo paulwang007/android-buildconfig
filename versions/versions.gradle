@@ -12,7 +12,7 @@ ext.CONFIG.versions = [
     // Android plugins, tools, SDK and libraries
     android   : [
         libraries: [
-            playServices: '16.0.0',
+            playServices: '11.0.4',
             support     : '28.0.0',
             volley      : '1.1.1',
         ],
